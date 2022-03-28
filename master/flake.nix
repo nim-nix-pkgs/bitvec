@@ -11,7 +11,6 @@
   inputs.src-bitvec-master.ref   = "refs/heads/master";
   inputs.src-bitvec-master.owner = "keyme";
   inputs.src-bitvec-master.repo  = "nim_bitvec";
-  inputs.src-bitvec-master.dir   = "";
   inputs.src-bitvec-master.type  = "github";
   
   outputs = { self, nixpkgs, flakeNimbleLib, ...}@deps:
