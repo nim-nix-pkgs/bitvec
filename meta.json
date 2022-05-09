@@ -7,7 +7,7 @@
   "license": "MIT",
   "web": "https://github.com/keyme/nim_bitvec",
   "refs": [
-    "fatal: expected flush after ref listing",
+    "fatal: unable to access 'https://github.com/keyme/nim_bitvec/': Failed to connect to github.com port 443 after 131252 ms: Connection timed out",
     ""
   ],
   "heads": []
